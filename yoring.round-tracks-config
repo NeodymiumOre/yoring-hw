@@ -1,0 +1,5 @@
+Default	False	2.0	3
+50ohm-se	True	2.0	3
+90ohm-diff	True	2.0	3
+Power	False	2.0	3
+False	False	False
